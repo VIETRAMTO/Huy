@@ -559,3 +559,12 @@
   .footer .footer-box-1 {
     left: 40px;
 }}
+@media(max-width:768.98px) {
+  .section-1{
+    width: 1170px;
+  
+  }
+  .footer{
+    width: 1170px;
+  }
+}
