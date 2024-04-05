@@ -511,3 +511,25 @@
 }
 
 /* End Footer */
+
+
+@media(max-width:575.98px) {
+  
+
+    .section-1{
+      width:840px;
+    }
+    .section-2{
+      left: 5px;
+      width: 700px;
+    }
+    .section-3{
+      width: 800px;
+      left: 10px;
+    }
+    .footer{
+      width: 850px;
+    }
+    .footer .footer-box-1 {
+      left: 40px;
+  }}

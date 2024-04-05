@@ -640,3 +640,31 @@ border-color: var(--color-text-1);
 }
 
 /* End Footer */
+
+
+@media(max-width:575.98px) {
+  
+.section-1 .para{
+  width: 600px;
+}
+  .section-1{
+    width: 840px;;
+  }
+  .section-2{
+    left: 110px;
+  }
+  .section-3{
+    width: 575px;
+    left: 110px;
+  }
+  .section-4{
+    width: 840px;
+  }.footer{
+    width: 850px;
+  }
+  .footer .footer-box-1 {
+    left: 40px;
+}
+
+}
+
